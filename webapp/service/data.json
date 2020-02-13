@@ -1,0 +1,39 @@
+{
+	"results": [{
+		"StorageLoc": "3001",
+		"MaterialDescription": "Stone-Washed Jeans",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000008"
+	}, {
+		"StorageLoc": "3001",
+		"MaterialDescription": "Leather Boots",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000135"
+	}, {
+		"StorageLoc": "3001",
+		"MaterialDescription": "Motorcycle Helmet",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000208"
+	}, {
+		"StorageLoc": "3002",
+		"MaterialDescription": "Sony Walkman",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000268"
+	}, {
+		"StorageLoc": "3002",
+		"MaterialDescription": "Levis Jacket",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000521"
+	}, {
+		"StorageLoc": "3003",
+		"MaterialDescription": "56,600 Modem",
+		"MaterialManager": "MC09",
+		"Meins": "PC",
+		"Material": "1000522"
+	}]
+}

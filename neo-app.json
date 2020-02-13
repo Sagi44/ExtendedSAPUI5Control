@@ -1,0 +1,49 @@
+{
+	"welcomeFile": "/webapp/index.html",
+	"headerWhiteList": [
+		"sap-message"
+	], 
+	"routes": [{
+		"path": "/resources",
+		"target": {
+			"type": "service",
+			"name": "sapui5",
+			"entryPath": "/resources"
+		},
+		"description": "SAPUI5 Resources"
+	}, 
+	{
+		"path": "/test-resources",
+		"target": {
+			"type": "service",
+			"name": "sapui5",
+			"entryPath": "/test-resources"
+		},
+		"description": "SAPUI5 Test Resources"
+	}, 
+	{
+		"path": "/destinations/NorthWind",
+		"target": {
+			"type": "destination",
+			"name": "NorthWind"
+		},
+		"description": "NorthWind"
+	}, 
+	{
+		"path": "/sap/opu/odata",
+		"target": {
+			"type": "destination",
+			"name": "GWD",
+			"entryPath": "/sap/opu/odata"
+		},
+		"description": "Gateway Connector"
+	}, 
+	{
+		"path": "/services/userapi",
+		"target": {
+			"type": "service",
+			"name": "userapi"
+		}
+	}],
+	"sendWelcomeFileRedirect": true
+}
